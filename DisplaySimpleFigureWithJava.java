@@ -19,6 +19,7 @@ public class DisplaySimpleFigureWithJava {
     public static void fourStar(){
         System.out.println("   *****   ");
     }
+    i
 }
 
 
